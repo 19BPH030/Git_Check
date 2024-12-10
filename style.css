@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}
+
+h2 {
+    font-size: 2em;
+    color: #343a40;
+}
+
+form input, form textarea {
+    border-radius: 5px;
+}
+
+form button {
+    border-radius: 5px;
+}
